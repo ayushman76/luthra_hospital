@@ -18,7 +18,7 @@ document.querySelector('.treatment_skin').innerHTML+=`
 		   </div>
 		     <br><br>
 			<div class="more text-center pad-10">
-			      <a href="dr_kalpana.html" class="btn-primary pad-10">More Treatments</a>
+			      <a href="skin_solution.html" class="btn-primary pad-10">More Treatments</a>
 			</div>
 	  </div>
 `;
